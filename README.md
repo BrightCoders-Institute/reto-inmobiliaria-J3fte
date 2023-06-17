@@ -5,7 +5,6 @@
 - [Intallation and Run](#intallation-and-run)
 - [Credits](#credits)
 - [Badges](#badges)
-- [App Screenshots](#app-screenshots)
 # App Inmobiliaria
 
 > [Ver instrucciones antes de iniciar](./instructions.md)
